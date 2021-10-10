@@ -1,1 +1,9 @@
+.timer {
+  display: flex;
+}
 
+.value {
+  font-size: 40px;
+  margin: 15px;
+  color: brown;
+}
